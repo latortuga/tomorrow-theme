@@ -114,3 +114,6 @@ The theme has been designed to be language independent and should look great wit
 
 ## The Future?
 I may be releasing other variations of this theme and will certainly be adding support for other more text editors/IDEs.
+
+## Fork Info
+I forked this because of a recent change that made all HTML tags red and nuked the corresponding syntax highlighting. Love this theme but the change was lame.
